@@ -2,10 +2,6 @@ anguage: php
 
     sudo: true
 
-    branches:
-      only:
-        - test
-
     cache:
       directories:
         - $HOME/.composer/cache
